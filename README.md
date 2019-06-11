@@ -1,6 +1,7 @@
 # SongBoxCPP
 
 Visualize the repetitiveness of your favorite songs with SongBoxCPP
+
 All you need is the text file containing the lyrics to a song
 
 1. Open Terminal / Command Prompt
@@ -23,8 +24,8 @@ If you would like to name the output file
 Here are a few examples:
 
 Daft Punk's "Get Lucky":
-![Get Lucky](https://octodex.github.com/images/yaktocat.png)
+![Get Lucky](https://raw.githubusercontent.com/ThomasC98/SongBoxCPP/master/GetLucky.png)
 
 
 Beyonce's "Halo"
-![Halo](https://octodex.github.com/images/yaktocat.png)
+![Halo](https://raw.githubusercontent.com/ThomasC98/SongBoxCPP/master/Halo.png)
