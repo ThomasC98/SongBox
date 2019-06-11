@@ -24,8 +24,10 @@ If you would like to name the output file
 Here are a few examples:
 
 Daft Punk's "Get Lucky":
+
 ![Get Lucky](https://raw.githubusercontent.com/ThomasC98/SongBoxCPP/master/GetLucky.png)
 
 
 Beyonce's "Halo"
+
 ![Halo](https://raw.githubusercontent.com/ThomasC98/SongBoxCPP/master/Halo.png)
